@@ -11,3 +11,50 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+hr.new1  {
+  border: 2px solid #D8D8D8;
+}
+
+.switchbtn {
+  float: right;
+  background-color: #058af7;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.customerInfo {
+  background-color: white;
+  border: 2px solid #d4d4d4;
+  border-radius: 5px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+}
+
+.priceInfo {
+  background-color: white;
+  border: 2px solid #d4d4d4;
+  border-radius: 5px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+}
